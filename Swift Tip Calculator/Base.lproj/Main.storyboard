@@ -48,7 +48,7 @@
                                     <action selector="didChangeSegment:" destination="BYZ-38-t0r" eventType="valueChanged" id="WDt-a8-KPg"/>
                                 </connections>
                             </segmentedControl>
-                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="IUC-tN-xUl">
+                            <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1.5" translatesAutoresizingMaskIntoConstraints="NO" id="IUC-tN-xUl">
                                 <rect key="frame" x="28" y="229.5" width="319" height="31"/>
                                 <connections>
                                     <action selector="valueChangedSlider:" destination="BYZ-38-t0r" eventType="valueChanged" id="axb-R8-Wi7"/>

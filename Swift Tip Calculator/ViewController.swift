@@ -26,7 +26,6 @@ class ViewController: UIViewController {
     // tip model
     var tipModel = TipModel()
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // type of currency - U.S. Dollars
