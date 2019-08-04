@@ -82,6 +82,8 @@
                             <constraint firstItem="4wV-ZO-bOb" firstAttribute="top" secondItem="cKj-pp-1Ah" secondAttribute="top" id="HjV-l8-kdB"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="opT-8w-4FZ" secondAttribute="trailing" constant="30" id="KDU-VW-S5Y"/>
                             <constraint firstItem="KZI-oh-Afm" firstAttribute="leading" secondItem="opT-8w-4FZ" secondAttribute="leading" id="OL5-aj-XrK"/>
+                            <constraint firstItem="owB-DS-3sY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="115" id="Oac-VA-YCF"/>
+                            <constraint firstItem="4wV-ZO-bOb" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="cKj-pp-1Ah" secondAttribute="trailing" constant="8" symbolic="YES" id="ReT-RP-IYL"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="4wV-ZO-bOb" secondAttribute="trailing" constant="30" id="SBM-kf-8dG"/>
                             <constraint firstItem="KZI-oh-Afm" firstAttribute="trailing" secondItem="opT-8w-4FZ" secondAttribute="trailing" id="YTB-SA-WE4"/>
                             <constraint firstItem="TMk-wa-YuN" firstAttribute="top" secondItem="4wV-ZO-bOb" secondAttribute="bottom" constant="20" id="aaf-ZB-WMJ"/>
@@ -90,6 +92,7 @@
                             <constraint firstItem="IUC-tN-xUl" firstAttribute="trailing" secondItem="KZI-oh-Afm" secondAttribute="trailing" id="msj-pf-Cgt"/>
                             <constraint firstItem="cKj-pp-1Ah" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="130" id="p54-Eq-hja"/>
                             <constraint firstItem="opT-8w-4FZ" firstAttribute="top" secondItem="vO9-99-UyP" secondAttribute="bottom" constant="20" id="rPp-rS-J54"/>
+                            <constraint firstItem="TMk-wa-YuN" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="owB-DS-3sY" secondAttribute="trailing" constant="8" symbolic="YES" id="rhr-SC-AmM"/>
                             <constraint firstItem="vO9-99-UyP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="tUE-y1-p7q"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
